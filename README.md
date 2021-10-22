@@ -1,5 +1,5 @@
 # sample-omega-r
-Sample Script for running R on Omega
+Sample Script for running R on Omega*
 
 # How to use
 
